@@ -1,7 +1,6 @@
 # Desafio DIO - Pesquisa Cognitiva e Inteligência de Documentos no Azure
 
 Este repositório foi criado para registrar as atividades do desafio da DIO sobre **Azure Cognitive Search** e **Inteligência de Documentos**.  
-A ideia é mostrar, de forma prática, como usar recursos de IA para organizar, indexar e pesquisar informações em grandes volumes de documentos.
 
 ## Objetivo do Desafio
 O foco do laboratório é aprender a trabalhar com:
@@ -27,7 +26,6 @@ O foco do laboratório é aprender a trabalhar com:
 ## Recursos de Apoio
 - [Azure Cognitive Search - Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-search-index/)  
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
-- [Documentação GitHub](https://docs.github.com/)  
 
 ## Conclusão
 Esse desafio ajudou a entender na prática como a combinação de **indexação** e **IA** pode transformar documentos soltos em informações pesquisáveis e organizadas.  
